@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+
+![Screenshot (35)](https://user-images.githubusercontent.com/76435535/230017946-6a21a010-9554-4469-b0de-3cade4e815b6.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -14,3 +17,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
